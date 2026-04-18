@@ -232,7 +232,7 @@ void main() {
   ];
 
   print("\n==========================================");
-  print("🏰 BEM-VINDO AO MUNDO DE KALOS (RPG 2026)");
+  print("🏰 BEM-VINDO AO MUNDO DE KALOS");
   print("==========================================");
 
   while (true) {
